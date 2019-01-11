@@ -1,0 +1,21 @@
+
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/backButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/back"/>
+<fragment
+    android:id="@+id/fragment1"
+    android:name="com.sdsu.cs646.shameetha818455307.datepickerdemo.MyListFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:layout="@layout/fragment_my_list"/>
+
+</LinearLayout>

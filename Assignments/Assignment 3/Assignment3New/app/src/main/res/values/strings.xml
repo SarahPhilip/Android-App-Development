@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Assignment 3 New</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_selected_instructor_details">SelectedInstructorDetailsActivity</string>
+    <string name="FirstName">FirstName : </string>
+    <string name="LastName">LastName :</string>
+    <string name="Office">Office :</string>
+    <string name="Phone">Phone :</string>
+    <string name="Email">Email :</string>
+    <string name="Rating">Rating</string>
+    <string name="Comments">Comments</string>
+    <string name="rateButton">Add Review </string>
+    <string name="average">Average Rating :</string>
+    <string name="totalRatings">Total Ratings :</string>
+    <string name="submit">SUBMIT</string>
+    <string name="message">Submitted!</string>
+    <string name="title_activity_review">ReviewActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
